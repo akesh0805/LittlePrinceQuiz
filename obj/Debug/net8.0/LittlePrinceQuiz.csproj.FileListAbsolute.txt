@@ -1,0 +1,14 @@
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\bin\Debug\net8.0\LittlePrinceQuiz.exe
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\bin\Debug\net8.0\LittlePrinceQuiz.deps.json
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\bin\Debug\net8.0\LittlePrinceQuiz.runtimeconfig.json
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\bin\Debug\net8.0\LittlePrinceQuiz.dll
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\bin\Debug\net8.0\LittlePrinceQuiz.pdb
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.AssemblyInfoInputs.cache
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.AssemblyInfo.cs
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.dll
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\refint\LittlePrinceQuiz.dll
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.pdb
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\LittlePrinceQuiz.genruntimeconfig.cache
+C:\Users\Devoloper\Desktop\c#\LittlePrinceQuiz\obj\Debug\net8.0\ref\LittlePrinceQuiz.dll
